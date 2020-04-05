@@ -2,3 +2,12 @@ theme: jekyll-theme-minimal
 title: Nicola Tamanini
 description: Ciao I am Nicola
 logo: Nicola.JPG
+
+defaults:
+  # _docs
+  - scope:
+      path: "page2/"
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
