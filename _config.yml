@@ -3,11 +3,6 @@ title: Nicola Tamanini
 description: Ciao I am Nicola
 logo: Nicola.JPG
 
-defaults:
-  # _docs
-  - scope:
-      path: "page2/"
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
