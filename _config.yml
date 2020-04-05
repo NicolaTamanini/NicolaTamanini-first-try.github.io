@@ -2,7 +2,3 @@ theme: jekyll-theme-minimal
 title: Nicola Tamanini
 description: Ciao I am Nicola
 logo: Nicola.JPG
-
-sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
